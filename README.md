@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @z3san
+- 👋 Hi, I’m Zisan
 - 👀 I’m interested in web devlopment
 - 🌱 I’m currently learning HTML CSS Javascript
 
